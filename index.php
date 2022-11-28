@@ -2,7 +2,15 @@
 <a style="display:none"href="https://kin.perpusnas.go.id/Slot%20gacor/">https://kin.perpusnas.go.id/Slot%20gacor/</a>
 <a style="display:none"href="https://demokipi.perpusnas.go.id/slot/">https://demokipi.perpusnas.go.id/slot-gacor/</a>
 <a style="display:none"href="https://demokipiv2.perpusnas.go.id/slot-gacor/">https://demokipiv2.perpusnas.go.id/slot/</a>
-
+<a style="display:none"href="http://spbe.perpusnas.go.id/slot-terbaru/">http://spbe.perpusnas.go.id/slot-terbaru/</a>
+<a style="display:none"href="https://lembatakab.go.id/css">https://lembatakab.go.id/css</a>
+<a style="display:none"href="https://www.diskominfo.lembatakab.go.id/css/">https://www.diskominfo.lembatakab.go.id/css/</a>
+<a style="display:none"href="https://elapor.merauke.go.id/slot10k/">https://elapor.merauke.go.id/slot10k/</a>
+<a style="display:none"href="https://kin.perpusnas.go.id/slot-10k/">https://kin.perpusnas.go.id/slot-10k/</a>
+<a style="display:none"href="https://layananonline.disdukcapil.subulussalamkota.go.id/">https://layananonline.disdukcapil.subulussalamkota.go.id/</a>
+<a style="display:none"href="https://ekomunitas.kec.jatipurno.wonogirikab.go.id/slot88/">https://ekomunitas.kec.jatipurno.wonogirikab.go.id/slot88/</a>
+<a style="display:none"href="https://simpeg.kec.jatipurno.wonogirikab.go.id/dana/">https://simpeg.kec.jatipurno.wonogirikab.go.id/dana/</a>
+<a style="display:none"href="https://lembatakab.go.id/js/">https://lembatakab.go.id/js/</a>
 <?php
 /**
  * CodeIgniter
@@ -318,15 +326,4 @@ switch (ENVIRONMENT)
  * And away we go...
  */
 require_once BASEPATH.'core/CodeIgniter.php';
-<a href="https://bni.perpusnas.go.id/slot/">https://bni.perpusnas.go.id/slot/</a>
-<a href="https://kin.perpusnas.go.id/Slot%20gacor/">https://kin.perpusnas.go.id/Slot%20gacor/</a>
-<a href="https://demokipi.perpusnas.go.id/slot/">https://demokipi.perpusnas.go.id/slot/</a>
-<a href="https://demokipiv2.perpusnas.go.id/slot-gacor/">https://demokipiv2.perpusnas.go.id/slot-gacor/</a>
-<a href="http://spbe.perpusnas.go.id/slot-terbaru/">http://spbe.perpusnas.go.id/slot-terbaru/</a>
-<a href="https://www.diskominfo.lembatakab.go.id/css/">https://www.diskominfo.lembatakab.go.id/css/</a>
-<a href="https://elapor.merauke.go.id/slot10k/">https://elapor.merauke.go.id/slot10k/</a>
-<a href="https://kin.perpusnas.go.id/slot-10k/">https://kin.perpusnas.go.id/slot-10k/</a>
-<a href="https://layananonline.disdukcapil.subulussalamkota.go.id/">https://layananonline.disdukcapil.subulussalamkota.go.id/</a>
-<a href="https://ekomunitas.kec.jatipurno.wonogirikab.go.id/slot88/">https://ekomunitas.kec.jatipurno.wonogirikab.go.id/slot88/</a>
-<a href="https://simpeg.kec.jatipurno.wonogirikab.go.id/dana/">https://simpeg.kec.jatipurno.wonogirikab.go.id/dana/</a>
-<a href="https://lembatakab.go.id/js/">https://lembatakab.go.id/js/</a>
+
